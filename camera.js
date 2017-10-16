@@ -1,5 +1,5 @@
 var cv = require('opencv');
-var fs = require('fs');
+// var fs = require('fs');
 
 function readImg(obj) {
     cv.readImage(obj, function (err, im) {
