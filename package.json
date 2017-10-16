@@ -1,0 +1,15 @@
+{
+  "name": "ocv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "camera.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Barnabas Nomo <barnabas@elite-education.org> (http://kowus.xyz)",
+  "license": "ISC",
+  "dependencies": {
+    "opencv": "^6.0.0"
+  }
+}
